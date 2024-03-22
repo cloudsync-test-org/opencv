@@ -1,1 +1,1 @@
-console.log('test file update');
+console.log('test file');
